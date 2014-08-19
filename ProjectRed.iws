@@ -1,0 +1,1837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4e5ccba-48b0-4471-8e6f-f5f114bbc103" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\ProjectRedCompatibility.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\ProjectRedCore.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\ProjectRedExpansion.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\ProjectRedExploration.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\ProjectRedIllumination.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\ProjectRedIntegration.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\ProjectRedTransmission.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\ProjectRedTransportation.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\api\IBundledEmitter.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\api\IBundledTile.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\api\IConnectable.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\api\IScrewdriver.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\api\ISpecialLinkState.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\api\ITransmissionAPI.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\api\ITransportationAPI.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\api\ProjectRedAPI.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\compatibility\CompatibilityCorePlugin.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\compatibility\IPRPlugin.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\compatibility\Services.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\compatibility\computercraft\PluginComputerCraft.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\compatibility\proxies.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\compatibility\tconstruct\LiquidFiniteSubstance.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\compatibility\tconstruct\PluginTConstruct.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\compatibility\thermalexpansion\LinkStateTesseract.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\compatibility\thermalexpansion\PluginTermalExpansion.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\compatibility\treecapitator\PluginTreecapitator.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\AStar.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\BasicGuiUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\BasicRenderUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\BasicUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\BasicWireUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\CommandDebug.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\Configurator.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\ConnLib.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\CoreRecipes.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\IProxy.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\IRetroGenerator.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\InvertX.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\ItemCraftingDamage.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\ItemDataCard.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\ItemDrawPlate.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\ItemPart.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\ItemScrewdriver.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\ItemWireDebugger.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\NEIProjectRedConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\PRColors.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\PRLogger.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\PRVersionChecker.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\RetroactiveWorldGenerator.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\ShapedOreNBTRecipe.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\ShapelessOreNBTRecipe.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\blockutil\BlockMulti.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\blockutil\ItemBlockMulti.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\blockutil\RenderMulti.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\blockutil\TileMulti.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\connectabletiles.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\connparts.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\CoreParticle.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleIconRegistry.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogic.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicApproachEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicApproachPoint.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicArcToEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicArcToPoint.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicBuff.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicColorShift.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicFade.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicFleeEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicIconShift.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicOrbitEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicOrbitPoint.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicScale.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicStatic.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicTrail.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleManagement.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\ClickRotation.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\GhostWidget.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\IGuiActionListener.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\IStackableGui.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\SimpleInventory.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\SpecialContainer.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\SpecialGuiContainer.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\WidgetItemSelection.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\WidgetTextBox.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\buttonwidget.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\inventorywrappers.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\sideselectwidget.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\tabwidget.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\messages.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\packethandlers.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\parttraits.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\powertraits.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\proxies.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\DirectionalRayTracer.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\HashPair2.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\LabelBreaks.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\LonelyList.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\MathLib.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\OpenGLLib.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\Pair2.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\PostponedWorkItem.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\TPortableInventory.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\enums.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\itemident.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\world\GenLib.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\world\GeneratorMetamorphicCave.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\world\GeneratorOre.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\world\GeneratorVolcano.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\world\genbase.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\world\gentrees.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\expansion\ExpansionRecipes.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\expansion\FurnaceRecipeLib.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\expansion\TileFurnace.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\expansion\guiFactory.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\expansion\machineabstracts.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\expansion\machinerenders.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\expansion\packethandlers.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\expansion\proxies.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\BlockOre.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\BlockPhotosyntheticCobblestone.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\BlockPhotosyntheticStoneBrick.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\BlockSpecialStone.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\BlockSpecialStoneWall.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\BlockStainedLeaf.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\BlockStainedSapling.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\EnumSpecialTool.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ExplorationRecipes.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\GenerationManager.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\GeneratorColorTree.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\GuiBackpack.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemBackpack.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemBlockMetaHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemBlockOre.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemBlockSpecialStone.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemBlockSpecialStoneWalls.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemBlockStainedSapling.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemGemAxe.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemGemHoe.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemGemPickaxe.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemGemSaw.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemGemShovel.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemGemSickle.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemGemSword.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemWoolGin.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\RetroGenerationManager.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\proxies.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\BaseLightPart.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\BlockAirousLight.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\BlockLamp.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\CageLampPart.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\FixturePart.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\ILight.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\IllumarButtonPart.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\IlluminationRecipes.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\ItemBlockLamp.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\ItemPartCageLamp.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\ItemPartFixture.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\ItemPartIllumarButton.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\ItemPartLantern.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\ItemPartLightBase.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\LampTESR.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\LanternPart.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\RenderCageLamp.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\RenderFixture.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\RenderHalo.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\RenderIllumarButton.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\RenderLantern.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\TileAirousLight.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\TileLamp.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\proxies.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\ArrayCommons.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\ArrayGateLogic.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\ArrayGatePart.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\BundledGateLogic.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\BundledGatePart.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\ComponentStore.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\EnumGate.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\GateItemRenderer.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\GateLogic.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\GatePart.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\GuiCounter.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\GuiTimer.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\InstancedRsGateLogic.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\InstancedRsGatePart.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\InstancedRsGatePartT.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\IntegrationRecipes.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\ItemPartGate.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\RedstoneGateLogic.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\RedstoneGatePart.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\RenderGate.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\RowGatePart.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\SimpleGateLogic.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\SimpleGatePart.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\packethandlers.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\proxies.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\APIImpl_Transmission.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\RenderFramedWire.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\RenderWire.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\TransmissionRecipes.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\WireDef.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\bundledrsparts.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\bundledwires.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\items.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\powerwires.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\propagation.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\proxies.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\redwires.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\rsparts.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\wireabstracts.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\APIImpl_Transportation.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\BasicPipePart.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\ChipBroadcaster.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\ChipCrafting.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\ChipExtractor.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\ChipResponder.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\ChipStockKeeper.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\DeliveryManager.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\GuiChipUpgrade.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\ItemRouterUtility.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\PipeDef.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\RouteFX.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\RoutedCraftingPipePart.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\RoutedExtensionPipePart.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\RoutedFirewallPipe.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\RoutedInterfacePipePart.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\RoutedJunctionPipePart.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\RoutedRequestPipePart.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\TransportationRecipes.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\chipguifactory.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\items.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\packethandlers.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\pathfinders.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\pipeabstracts.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\pipeguis.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\pipepayload.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\piperenders.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\proxies.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\requests.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\routermanagment.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\routingchipabstracts.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\routingthreads.scala" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\worldrouters.scala" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.xml" afterPath="$PROJECT_DIR$/build.xml" />
+    </list>
+    <ignored path="ProjectRed.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ProjectRed" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="build.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="5134">
+              <caret line="34" column="77" selection-start-line="31" selection-start-column="39" selection-end-line="34" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProjectRed.iws" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProjectRed.iws">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5763" max-vertical-offset="31331">
+              <caret line="369" column="14" selection-start-line="369" selection-start-column="14" selection-end-line="369" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4981">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProjectRedCompatibility.scala" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/ProjectRedCompatibility.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.41944847" vertical-offset="0" max-vertical-offset="689">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="e#26#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProjectRedExpansion.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/ProjectRedExpansion.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProjectRedIllumination.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/ProjectRedIllumination.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
+              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProjectRedCore.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/ProjectRedCore.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+              <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PluginTConstruct.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/compatibility/tconstruct/PluginTConstruct.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1513">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="e#51#99#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="tasksExpandState">
+      <map>
+        <entry key="" value="true" />
+        <entry key="ProjectRed/" value="true" />
+      </map>
+    </option>
+    <option name="recentTasks">
+      <list>
+        <ExternalTaskExecutionInfo>
+          <option name="executorId" value="Run" />
+          <option name="settings">
+            <ExternalSystemSettings>
+              <option name="externalProjectPath" value="$PROJECT_DIR$" />
+              <option name="externalSystemIdString" value="GRADLE" />
+              <option name="taskNames">
+                <list>
+                  <option value="jar" />
+                </list>
+              </option>
+            </ExternalSystemSettings>
+          </option>
+        </ExternalTaskExecutionInfo>
+        <ExternalTaskExecutionInfo>
+          <option name="executorId" value="Run" />
+          <option name="settings">
+            <ExternalSystemSettings>
+              <option name="externalProjectPath" value="$PROJECT_DIR$" />
+              <option name="externalSystemIdString" value="GRADLE" />
+              <option name="taskNames">
+                <list>
+                  <option value="build" />
+                </list>
+              </option>
+            </ExternalSystemSettings>
+          </option>
+        </ExternalTaskExecutionInfo>
+        <ExternalTaskExecutionInfo>
+          <option name="executorId" value="Run" />
+          <option name="settings">
+            <ExternalSystemSettings>
+              <option name="externalProjectPath" value="$PROJECT_DIR$" />
+              <option name="externalSystemIdString" value="GRADLE" />
+              <option name="taskNames">
+                <list>
+                  <option value="install" />
+                </list>
+              </option>
+            </ExternalSystemSettings>
+          </option>
+        </ExternalTaskExecutionInfo>
+        <ExternalTaskExecutionInfo>
+          <option name="executorId" value="Run" />
+          <option name="settings">
+            <ExternalSystemSettings>
+              <option name="externalProjectPath" value="$PROJECT_DIR$" />
+              <option name="externalSystemIdString" value="GRADLE" />
+              <option name="taskNames">
+                <list>
+                  <option value="extractUserDev" />
+                </list>
+              </option>
+            </ExternalSystemSettings>
+          </option>
+        </ExternalTaskExecutionInfo>
+        <ExternalTaskExecutionInfo>
+          <option name="executorId" value="Run" />
+          <option name="settings">
+            <ExternalSystemSettings>
+              <option name="externalProjectPath" value="$PROJECT_DIR$" />
+              <option name="externalSystemIdString" value="GRADLE" />
+              <option name="taskNames">
+                <list>
+                  <option value="extractNatives" />
+                </list>
+              </option>
+            </ExternalSystemSettings>
+          </option>
+        </ExternalTaskExecutionInfo>
+        <ExternalTaskExecutionInfo>
+          <option name="executorId" value="Run" />
+          <option name="settings">
+            <ExternalSystemSettings>
+              <option name="externalProjectPath" value="$PROJECT_DIR$" />
+              <option name="externalSystemIdString" value="GRADLE" />
+              <option name="taskNames">
+                <list>
+                  <option value="genIntellijRuns" />
+                </list>
+              </option>
+            </ExternalSystemSettings>
+          </option>
+        </ExternalTaskExecutionInfo>
+        <ExternalTaskExecutionInfo>
+          <option name="executorId" value="Run" />
+          <option name="settings">
+            <ExternalSystemSettings>
+              <option name="externalProjectPath" value="$PROJECT_DIR$" />
+              <option name="externalSystemIdString" value="GRADLE" />
+              <option name="taskNames">
+                <list>
+                  <option value="install-dependencies" />
+                </list>
+              </option>
+            </ExternalSystemSettings>
+          </option>
+        </ExternalTaskExecutionInfo>
+      </list>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="ProjectRed" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="ProjectRed" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="remapJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="doForgePatches" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="getAssetsIndex" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="decompile" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="lightingJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="install-dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="setupCIWorkspace" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="install-tcons" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="download-ccl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="download-ccraft" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mechanicalJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="downloadServer" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="applyBinPatches" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="addFmlSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="download-tcons" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="sourceMainJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanCache" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeJars" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="download-ccobf" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="download-texpan" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="install-texpan" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="afterEclipseImport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="install-ccraft" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="doFmlPatches" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Scaladoc for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="scaladoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="reobf" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="baseJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="install-scala" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="setupDevWorkspace" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="setupDecompWorkspace" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'api'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="apiClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the 'archives' artifacts into the local Maven repository." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="install" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="downloadMcpTools" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="updateVersion" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="download-scala" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the main Scala source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileScala" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Starts a Scala REPL with the test runtime class path." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="scalaTestConsole" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'api:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileApiJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="install-ccl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="extractNatives" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="genIntellijRuns" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'api:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processApiResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="install-ccobf" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="copyAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="deobfuscateJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="deobfBinJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="download-cofh" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Starts a Scala REPL with the api runtime class path." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="scalaApiConsole" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Starts a Scala REPL with the main runtime class path." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="scalaConsole" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="extractUserDev" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="worldJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="install-cofh" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the api Scala source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileApiScala" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="download-fmp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the test Scala source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestScala" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="downloadClient" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="install-fmp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compatJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="getAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="sourceMainScala" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="integrationJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="genSrgs" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1408414612806" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/codechicken/CodeChickenCore/1.6.4-0.9.0.9/5be85b8849ac24ca2e6f41067245511bd9188f64/CodeChickenCore-1.6.4-0.9.0.9-dev.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/codechicken/NotEnoughItems/1.6.4-1.6.1.9/e0af10bbf5d93bc0861dafe4e8c8337438761539/NotEnoughItems-1.6.4-1.6.1.9-dev.jar" />
+                            <option value="$MODULE_DIR$/DependencyRepo/CodeChickenLib-dev-1.6.4-1.0.0.61.jar" />
+                            <option value="$MODULE_DIR$/DependencyRepo/ForgeMultipart-dev-1.6.4-1.0.0.244.jar" />
+                            <option value="$MODULE_DIR$/DependencyRepo/CCObfuscator-all-1.0.0.19.jar" />
+                            <option value="$MODULE_DIR$/DependencyRepo/TConstruct_mc1.6.4_1.5.4.jar" />
+                            <option value="$MODULE_DIR$/DependencyRepo/ThermalExpansion-3.0.0.2.jar" />
+                            <option value="$MODULE_DIR$/DependencyRepo/CoFHCore-2.0.0.2.jar" />
+                            <option value="$MODULE_DIR$/DependencyRepo/ComputerCraft1.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge.gradle/ForgeGradle/1.0-SNAPSHOT/47243d0b264d56d7faf9e0874979f3b1dc87471e/ForgeGradle-1.0-SNAPSHOT.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tony19/named-regexp/0.2.3/74e99674da3dcbd04e30fc62e164073b4d95e8b9/named-regexp-0.2.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tony19/named-regexp/0.2.3/370846bf3837952d981deb8f91e81da8c65b09e1/named-regexp-0.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.oceanlabs.mcp/RetroGuard/3.6.6/ffd69fcab06b928cf76144f08b7209ccf0656b6d/RetroGuard-3.6.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.opencsv/opencsv/2.3/235993117036d44d126f76db9ea2202ee4884682/opencsv-2.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.opencsv/opencsv/2.3/c23708cdb9e80a144db433e23344a788a1fd6599/opencsv-2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jponge/lzma-java/1.3/c0f18880fb29c7bfc088a6e114c66fe30a5e8df2/lzma-java-1.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jponge/lzma-java/1.3/a25db9d4d385ccda4825ae1b47a7a61d86e595af/lzma-java-1.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nothome/javaxdelta/2.0.1/c99bfecfaa91279b8a3d7d25a99cbbda107c903d/javaxdelta-2.0.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nothome/javaxdelta/2.0.1/d4f5d077f1b15c6f67595015d69572303ad3f66d/javaxdelta-2.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.argo/argo/3.4/2b39738e65594d8487924a946dee0eae35af87ce/argo-3.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.argo/argo/3.4/9cfa1016a55a92f7201cd43d60ff4032f9d815c4/argo-3.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.abrarsyed.jastyle/jAstyle/1.2/bad0011af16ee457fdfe30ab9683f278da0e8a39/jAstyle-1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.abrarsyed.jastyle/jAstyle/1.2/642eada5efeb315295e21a5aea384b68dd191e5f/jAstyle-1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a6dc5db8a12928e583bd3f23e72d3ab611ecd58f/gson-2.2.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.md-5/SpecialSource/1.6.1/75bc2ae87bbd2ffbc227289d00aa19a381ba962c/SpecialSource-1.6.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.md-5/SpecialSource/1.6.1/b0460612de816f4ad6c16f75a2c4ce56b5c13597/SpecialSource-1.6.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cloudbees/diff4j/1.1/e01e5168c15a325a548be3a0d18af5eac6f6343f/diff4j-1.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cloudbees/diff4j/1.1/645329c0d4ebbea5f73758929c6e63bab9e77204/diff4j-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.oceanlabs.mcp/mcinjector/3.1/372fdaa5500376165d4cfd5b91000103f9f4110b/mcinjector-3.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/trove/trove/1.0.2/112b40581ab9a4d3de4636d49985a7f686d181c8/trove-1.0.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/14.0.1/169f11e28e3ed9a64e9fa895eaafb579e6a5aa6c/guava-14.0.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/14.0.1/69e12f4c6aeac392555f1ea86fab82b5e5e31ad4/guava-14.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.localizer/localizer/1.12/261a0e844fe30de1c30372135275fa0b299bdee4/localizer-1.12-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.localizer/localizer/1.12/6d456886a035b2c3f758059da1f91a823eaa4a62/localizer-1.12.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/1.4/48753e43ff29409fbbeadfb36186cbe27e41b179/commons-io-1.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/1.4/a8762d07e76cfde2395257a5da47ba7c1dbd3dce/commons-io-1.4.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="ProjectRed" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/core-impl" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/cpp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/jetty" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/language-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/open-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/sonar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/ui" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/ant-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/ant-launcher-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/gradle-base-services-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/gradle-base-services-groovy-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/gradle-cli-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/gradle-core-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/gradle-docs-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/gradle-launcher-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/gradle-messaging-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/gradle-native-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/gradle-open-api-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/gradle-resources-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/gradle-tooling-api-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/gradle-ui-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/gradle-wrapper-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/groovy-all-2.3.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/ant-antlr-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-announce-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-antlr-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-build-comparison-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-build-init-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-code-quality-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-core-impl-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-cpp-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-diagnostics-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-ear-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-ide-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-ivy-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-jacoco-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-javascript-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-jetty-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-language-base-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-language-jvm-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-maven-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-osgi-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-plugin-use-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-plugins-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-publish-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-reporting-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-resources-http-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-scala-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-signing-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/gradle-sonar-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/7rd4e4rcg4riqi0j6j508m2lbk/gradle-2.0/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/build.xml" />
+        <option value="$PROJECT_DIR$/src/mrtjp/projectred/compatibility/tconstruct/PluginTConstruct.scala" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ModuleEditorState">
+    <option name="LAST_EDITED_MODULE_NAME" />
+    <option name="LAST_EDITED_TAB_NAME" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="886" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state />
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectred" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DependencyRepo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RunManager" selected="Gradle.ProjectRed [jar]">
+    <configuration default="false" name="ProjectRed [install]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="install" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <RunnerSettings RunnerId="ExternalSystemTaskRunner" />
+      <ConfigurationWrapper RunnerId="ExternalSystemTaskRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ProjectRed [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <RunnerSettings RunnerId="ExternalSystemTaskRunner" />
+      <ConfigurationWrapper RunnerId="ExternalSystemTaskRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ProjectRed [extractNatives]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="extractNatives" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <RunnerSettings RunnerId="ExternalSystemTaskRunner" />
+      <ConfigurationWrapper RunnerId="ExternalSystemTaskRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ProjectRed [extractUserDev]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="extractUserDev" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <RunnerSettings RunnerId="ExternalSystemTaskRunner" />
+      <ConfigurationWrapper RunnerId="ExternalSystemTaskRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ProjectRed [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <RunnerSettings RunnerId="ExternalSystemTaskRunner" />
+      <ConfigurationWrapper RunnerId="ExternalSystemTaskRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Minecraft Client" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="net.minecraft.launchwrapper.Launch" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Xmx1024M -Xms1024M -Djava.library.path=&quot;$PROJECT_DIR$/../ProjectRed\build\natives&quot; -Dfml.ignoreInvalidMinecraftCertificates=true" />
+      <option name="PROGRAM_PARAMETERS" value="--version 1.6 --tweakClass cpw.mods.fml.common.launcher.FMLTweaker --username=slimshadeey1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/eclipse" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ProjectRed" />
+      <envs />
+      <RunnerSettings RunnerId="JProfiler">
+        <option name="WINDOW" value="false" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Minecraft Server" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="cpw.mods.fml.relauncher.ServerLaunchWrapper" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Dfml.ignoreInvalidMinecraftCertificates=true" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../ProjectRed\eclipse" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ProjectRed" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Application.Minecraft Client" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Minecraft Server" />
+      <item index="2" class="java.lang.String" itemvalue="Gradle.ProjectRed [install]" />
+      <item index="3" class="java.lang.String" itemvalue="Gradle.ProjectRed [build]" />
+      <item index="4" class="java.lang.String" itemvalue="Gradle.ProjectRed [extractNatives]" />
+      <item index="5" class="java.lang.String" itemvalue="Gradle.ProjectRed [extractUserDev]" />
+      <item index="6" class="java.lang.String" itemvalue="Gradle.ProjectRed [jar]" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Gradle.ProjectRed [jar]" />
+        <item index="1" class="java.lang.String" itemvalue="Gradle.ProjectRed [build]" />
+        <item index="2" class="java.lang.String" itemvalue="Gradle.ProjectRed [install]" />
+        <item index="3" class="java.lang.String" itemvalue="Gradle.ProjectRed [extractUserDev]" />
+        <item index="4" class="java.lang.String" itemvalue="Gradle.ProjectRed [extractNatives]" />
+      </list>
+    </recent_temporary>
+    <configuration default="true" name="&lt;template&gt;" selected="false" type="WebApp">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4e5ccba-48b0-4471-8e6f-f5f114bbc103" name="Default" comment="" />
+      <created>1408408641670</created>
+      <updated>1408408641670</updated>
+      <workItem from="1408408642349" duration="7237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7237000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964131" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328877" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2661406" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7687166" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ProjectRed.iws">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5763" max-vertical-offset="31331">
+          <caret line="369" column="14" selection-start-line="369" selection-start-column="14" selection-end-line="369" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="5134">
+          <caret line="34" column="77" selection-start-line="31" selection-start-column="39" selection-end-line="34" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/compatibility/tconstruct/PluginTConstruct.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1513">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#51#99#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4981">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/ProjectRedExpansion.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/ProjectRedIllumination.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/ProjectRedCore.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/ProjectRedCompatibility.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41944847" vertical-offset="0" max-vertical-offset="689">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#26#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI" />
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Scala</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ProjectRed</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI" />
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: launchwrapper-1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI" />
+    </states>
+  </component>
+</project>
+

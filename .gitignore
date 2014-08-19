@@ -4,3 +4,12 @@
 *.blend1
 
 *.blend2
+/gradle
+/.gradle
+gradlew.bat
+/DependencyRepo
+/dist
+/out
+/build
+/eclipse
+/target
