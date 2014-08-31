@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AntConfiguration">
+    <buildFile url="file://$PROJECT_DIR$/build.xml" />
+  </component>
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="CopyrightManager" default="" />
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="IdProvider" IDEtalkID="E260311466B9D29A7C41FEA9CA597DD3" />
+  <component name="ProjectDictionaryState">
+    <dictionary name="Ben Byers" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../build/forge/fml/eclipse/Minecraft/Minecraft.iml" filepath="$PROJECT_DIR$/../build/forge/fml/eclipse/Minecraft/Minecraft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectRed.iml" filepath="$PROJECT_DIR$/ProjectRed.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+  </component>
+  <component name="libraryTable">
+    <library name="1.6.4.jar">
+      <CLASSES>
+        <root url="jar://$MCP_LOC$/jars/versions/1.6.4/1.6.4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="argo-2.25_fixed.jar">
+      <CLASSES>
+        <root url="jar://$MCP_LOC$/jars/libraries/argo/argo/2.25_fixed/argo-2.25_fixed.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$MCP_LOC$/jars/libraries/net/sourceforge/argo/argo/2.25/argo-2.25-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="asm-debug-all-4.1.jar">
+      <CLASSES>
+        <root url="jar://$MCP_LOC$/jars/libraries/org/ow2/asm/asm-debug-all/4.1/asm-debug-all-4.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$MCP_LOC$/jars/libraries/org/ow2/asm/asm-debug-all/4.1/asm-debug-all-4.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="bcprov-jdk15on-1.47.jar">
+      <CLASSES>
+        <root url="jar://$MCP_LOC$/jars/libraries/org/bouncycastle/bcprov-jdk15on/1.47/bcprov-jdk15on-1.47.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$MCP_LOC$/jars/libraries/org/bouncycastle/bcprov-jdk15on/1.47/bcprov-jdk15on-1.47-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="codecjorbis-20101023.jar">
+      <CLASSES>
+        <root url="jar://$MCP_LOC$/jars/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="codecwav-20101023.jar">
+      <CLASSES>
+        <root url="jar://$MCP_LOC$/jars/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="commons-io-2.4.jar">
+      <CLASSES>
+        <root url="jar://$MCP_LOC$/jars/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$MCP_LOC$/jars/libraries/commons-io/commons-io/2.4/commons-io-2.4-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="commons-lang3-3.1.jar">
+      <CLASSES>
+        <root url="jar://$MCP_LOC$/jars/libraries/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$MCP_LOC$/jars/libraries/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="gson-2.2.2.jar">
+      <CLASSES>
+        <root url="jar://$MCP_LOC$/jars/libraries/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$MCP_LOC$/jars/libraries/com/google/code/gson/gson/2.2.2/gson-2.2.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="guava-14.0.jar">
+      <CLASSES>
+        <root url="jar://$MCP_LOC$/jars/libraries/com/google/guava/guava/14.0/guava-14.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$MCP_LOC$/jars/libraries/com/google/guava/guava/14.0/guava-14.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="jinput-2.0.5.jar">
+      <CLASSES>
+        <root url="jar://$MCP_LOC$/jars/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$MCP_LOC$/jars/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="jopt-simple-4.5.jar">
+      <CLASSES>
+        <root url="jar://$MCP_LOC$/jars/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$MCP_LOC$/jars/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="jutils-1.0.0.jar">
+      <CLASSES>
+        <root url="jar://$MCP_LOC$/jars/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$MCP_LOC$/jars/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="launchwrapper-1.8.jar">
+      <CLASSES>
+        <root url="jar://$MCP_LOC$/jars/libraries/net/minecraft/launchwrapper/1.8/launchwrapper-1.8.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="lib">
+      <CLASSES>
+        <root url="file://$MCP_LOC$/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MCP_LOC$/lib" />
+      </SOURCES>
+      <jarDirectory url="file://$MCP_LOC$/lib" recursive="false" />
+      <jarDirectory url="file://$MCP_LOC$/lib" recursive="false" type="SOURCES" />
+    </library>
+    <library name="libraryjavasound-20101123.jar">
+      <CLASSES>
+        <root url="jar://$MCP_LOC$/jars/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="librarylwjglopenal-20100824.jar">
+      <CLASSES>
+        <root url="jar://$MCP_LOC$/jars/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="lwjgl-2.9.0.jar">
+      <CLASSES>
+        <root url="jar://$MCP_LOC$/jars/libraries/org/lwjgl/lwjgl/lwjgl/2.9.0/lwjgl-2.9.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$MCP_LOC$/jars/libraries/org/lwjgl/lwjgl/lwjgl/2.9.0/lwjgl-2.9.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="lwjgl_util-2.9.0.jar">
+      <CLASSES>
+        <root url="jar://$MCP_LOC$/jars/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.0/lwjgl_util-2.9.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$MCP_LOC$/jars/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.0/lwjgl_util-2.9.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="lzma-0.0.1.jar">
+      <CLASSES>
+        <root url="jar://$MCP_LOC$/jars/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="soundsystem-20120107.jar">
+      <CLASSES>
+        <root url="jar://$MCP_LOC$/jars/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</project>
+

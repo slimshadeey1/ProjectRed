@@ -26,9 +26,9 @@
     <property name="forgeuni.name" value="forge-${mc.version}-${forge.version}-universal.jar"/>
     <property name="ccl.name" value="CodeChickenLib-dev-${mc.version}-${ccl.version}.jar"/>
     <property name="ccobf.name" value="CCObfuscator-all-${ccobf.version}.jar"/>
-    <property name="ccc.name" value="CodeChickenCore-dev%20${ccc.version}.jar"/>
+    <property name="ccc.name" value="CodeChickenCore-${mc.version}-${ccc.version}-dev.jar"/>
     <property name="fmp.name" value="ForgeMultipart-dev-${mc.version}-${fmp.version}.jar"/>
-    <property name="nei.name" value="NotEnoughItems-dev%20${nei.version}.jar"/>
+    <property name="nei.name" value="NotEnoughItems-${mc.version}-${nei.version}-dev.jar"/>
     <property name="tcons.name" value="TConstruct_mc${mc.version}_${tcons.version}.jar"/>
     <property name="texpan.name" value="ThermalExpansion-${texpan.version}.jar"/>
     <property name="cofh.name" value="CoFHCore-${cofh.version}.jar"/>
@@ -148,7 +148,7 @@
     </target>
 
     <target name="download-ccc" unless="ccc-downloaded">
-        <get src="http://www.chickenbones.craftsaddle.org/Files/New_Versions/${mc.version}/${ccc.name}" dest="${download.dir}" usetimestamp="true"/>
+        <get src="http://chickenbones.net/maven/codechicken/CodeChickenCore/${mc.version}-${ccc.version}/${ccc.name}" dest="${download.dir}" usetimestamp="true"/>
     </target>
 
     <target name="download-fmp" unless="fmp-downloaded">
@@ -156,7 +156,7 @@
     </target>
 
     <target name="download-nei" unless="nei-downloaded">
-        <get src="http://www.chickenbones.craftsaddle.org/Files/New_Versions/${mc.version}/${nei.name}" dest="${download.dir}" usetimestamp="true"/>
+        <get src="http://chickenbones.net/maven/codechicken/NotEnoughItems/${mc.version}-${nei.version}/${nei.name}" dest="${download.dir}" usetimestamp="true"/>
     </target>
 
     <target name="download-tcons" unless="tcons-downloaded">
