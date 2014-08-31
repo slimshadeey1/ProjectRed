@@ -2,249 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4e5ccba-48b0-4471-8e6f-f5f114bbc103" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\ProjectRedCompatibility.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\ProjectRedCore.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\ProjectRedExpansion.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\ProjectRedExploration.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\ProjectRedIllumination.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\ProjectRedIntegration.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\ProjectRedTransmission.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\ProjectRedTransportation.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\api\IBundledEmitter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\api\IBundledTile.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\api\IConnectable.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\api\IScrewdriver.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\api\ISpecialLinkState.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\api\ITransmissionAPI.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\api\ITransportationAPI.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\api\ProjectRedAPI.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\compatibility\CompatibilityCorePlugin.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\compatibility\IPRPlugin.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\compatibility\Services.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\compatibility\computercraft\PluginComputerCraft.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\compatibility\proxies.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\compatibility\tconstruct\LiquidFiniteSubstance.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\compatibility\tconstruct\PluginTConstruct.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\compatibility\thermalexpansion\LinkStateTesseract.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\compatibility\thermalexpansion\PluginTermalExpansion.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\compatibility\treecapitator\PluginTreecapitator.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\AStar.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\BasicGuiUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\BasicRenderUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\BasicUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\BasicWireUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\CommandDebug.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\Configurator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\ConnLib.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\CoreRecipes.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\IProxy.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\IRetroGenerator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\InvertX.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\ItemCraftingDamage.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\ItemDataCard.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\ItemDrawPlate.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\ItemPart.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\ItemScrewdriver.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\ItemWireDebugger.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\NEIProjectRedConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\PRColors.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\PRLogger.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\PRVersionChecker.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\RetroactiveWorldGenerator.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\ShapedOreNBTRecipe.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\ShapelessOreNBTRecipe.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\blockutil\BlockMulti.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\blockutil\ItemBlockMulti.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\blockutil\RenderMulti.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\blockutil\TileMulti.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\connectabletiles.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\connparts.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\CoreParticle.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleIconRegistry.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogic.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicApproachEntity.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicApproachPoint.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicArcToEntity.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicArcToPoint.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicBuff.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicColorShift.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicFade.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicFleeEntity.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicIconShift.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicOrbitEntity.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicOrbitPoint.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicScale.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicStatic.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleLogicTrail.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\fx\ParticleManagement.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\ClickRotation.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\GhostWidget.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\IGuiActionListener.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\IStackableGui.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\SimpleInventory.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\SpecialContainer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\SpecialGuiContainer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\WidgetItemSelection.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\WidgetTextBox.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\buttonwidget.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\inventorywrappers.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\sideselectwidget.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\inventory\tabwidget.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\messages.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\packethandlers.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\parttraits.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\powertraits.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\proxies.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\DirectionalRayTracer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\HashPair2.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\LabelBreaks.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\LonelyList.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\MathLib.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\OpenGLLib.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\Pair2.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\PostponedWorkItem.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\TPortableInventory.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\enums.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\utils\itemident.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\world\GenLib.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\world\GeneratorMetamorphicCave.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\world\GeneratorOre.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\world\GeneratorVolcano.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\world\genbase.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\core\world\gentrees.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\expansion\ExpansionRecipes.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\expansion\FurnaceRecipeLib.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\expansion\TileFurnace.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\expansion\guiFactory.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\expansion\machineabstracts.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\expansion\machinerenders.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\expansion\packethandlers.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\expansion\proxies.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\BlockOre.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\BlockPhotosyntheticCobblestone.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\BlockPhotosyntheticStoneBrick.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\BlockSpecialStone.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\BlockSpecialStoneWall.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\BlockStainedLeaf.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\BlockStainedSapling.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\EnumSpecialTool.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ExplorationRecipes.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\GenerationManager.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\GeneratorColorTree.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\GuiBackpack.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemBackpack.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemBlockMetaHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemBlockOre.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemBlockSpecialStone.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemBlockSpecialStoneWalls.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemBlockStainedSapling.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemGemAxe.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemGemHoe.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemGemPickaxe.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemGemSaw.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemGemShovel.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemGemSickle.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemGemSword.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\ItemWoolGin.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\RetroGenerationManager.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\exploration\proxies.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\BaseLightPart.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\BlockAirousLight.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\BlockLamp.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\CageLampPart.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\FixturePart.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\ILight.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\IllumarButtonPart.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\IlluminationRecipes.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\ItemBlockLamp.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\ItemPartCageLamp.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\ItemPartFixture.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\ItemPartIllumarButton.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\ItemPartLantern.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\ItemPartLightBase.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\LampTESR.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\LanternPart.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\RenderCageLamp.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\RenderFixture.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\RenderHalo.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\RenderIllumarButton.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\RenderLantern.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\TileAirousLight.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\TileLamp.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\illumination\proxies.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\ArrayCommons.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\ArrayGateLogic.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\ArrayGatePart.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\BundledGateLogic.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\BundledGatePart.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\ComponentStore.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\EnumGate.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\GateItemRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\GateLogic.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\GatePart.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\GuiCounter.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\GuiTimer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\InstancedRsGateLogic.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\InstancedRsGatePart.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\InstancedRsGatePartT.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\IntegrationRecipes.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\ItemPartGate.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\RedstoneGateLogic.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\RedstoneGatePart.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\RenderGate.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\RowGatePart.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\SimpleGateLogic.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\SimpleGatePart.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\packethandlers.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\integration\proxies.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\APIImpl_Transmission.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\RenderFramedWire.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\RenderWire.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\TransmissionRecipes.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\WireDef.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\bundledrsparts.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\bundledwires.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\items.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\powerwires.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\propagation.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\proxies.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\redwires.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\rsparts.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transmission\wireabstracts.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\APIImpl_Transportation.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\BasicPipePart.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\ChipBroadcaster.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\ChipCrafting.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\ChipExtractor.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\ChipResponder.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\ChipStockKeeper.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\DeliveryManager.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\GuiChipUpgrade.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\ItemRouterUtility.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\PipeDef.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\RouteFX.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\RoutedCraftingPipePart.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\RoutedExtensionPipePart.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\RoutedFirewallPipe.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\RoutedInterfacePipePart.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\RoutedJunctionPipePart.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\RoutedRequestPipePart.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\TransportationRecipes.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\chipguifactory.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\items.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\packethandlers.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\pathfinders.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\pipeabstracts.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\pipeguis.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\pipepayload.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\piperenders.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\proxies.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\requests.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\routermanagment.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\routingchipabstracts.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\routingthreads.scala" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ben Byers\Workspaces\ProjectRed\common\mrtjp\projectred\transportation\worldrouters.scala" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.xml" afterPath="$PROJECT_DIR$/build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectRed.iws" afterPath="$PROJECT_DIR$/ProjectRed.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/dependancies.info" afterPath="$PROJECT_DIR$/resources/dependancies.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/mcmod.info" afterPath="$PROJECT_DIR$/resources/mcmod.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mrtjp/projectred/transportation/piperenders.scala" afterPath="$PROJECT_DIR$/src/mrtjp/projectred/transportation/piperenders.scala" />
     </list>
     <ignored path="ProjectRed.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -307,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/build.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="5134">
-              <caret line="34" column="77" selection-start-line="31" selection-start-column="39" selection-end-line="34" selection-end-column="77" />
+              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -317,82 +78,31 @@
         <entry file="file://$PROJECT_DIR$/build.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="16" />
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProjectRed.iws" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProjectRed.iws">
+      <file leaf-file-name="mcmod.info" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/mcmod.info">
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="5763" max-vertical-offset="31331">
-              <caret line="369" column="14" selection-start-line="369" selection-start-column="14" selection-end-line="369" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.55904335" vertical-offset="0" max-vertical-offset="2788">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+      <file leaf-file-name="dependancies.info" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/dependancies.info">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4981">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProjectRedCompatibility.scala" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/ProjectRedCompatibility.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41944847" vertical-offset="0" max-vertical-offset="689">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-              <folding>
-                <element signature="e#26#56#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProjectRedExpansion.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/ProjectRedExpansion.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
-              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProjectRedIllumination.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/ProjectRedIllumination.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
-              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProjectRedCore.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/ProjectRedCore.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
-              <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PluginTConstruct.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/compatibility/tconstruct/PluginTConstruct.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1513">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="e#51#99#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -424,6 +134,34 @@
               <option name="externalSystemIdString" value="GRADLE" />
               <option name="taskNames">
                 <list>
+                  <option value="worldJar" />
+                </list>
+              </option>
+            </ExternalSystemSettings>
+          </option>
+        </ExternalTaskExecutionInfo>
+        <ExternalTaskExecutionInfo>
+          <option name="executorId" value="Run" />
+          <option name="settings">
+            <ExternalSystemSettings>
+              <option name="externalProjectPath" value="$PROJECT_DIR$" />
+              <option name="externalSystemIdString" value="GRADLE" />
+              <option name="taskNames">
+                <list>
+                  <option value="updateVersion" />
+                </list>
+              </option>
+            </ExternalSystemSettings>
+          </option>
+        </ExternalTaskExecutionInfo>
+        <ExternalTaskExecutionInfo>
+          <option name="executorId" value="Run" />
+          <option name="settings">
+            <ExternalSystemSettings>
+              <option name="externalProjectPath" value="$PROJECT_DIR$" />
+              <option name="externalSystemIdString" value="GRADLE" />
+              <option name="taskNames">
+                <list>
                   <option value="jar" />
                 </list>
               </option>
@@ -438,7 +176,7 @@
               <option name="externalSystemIdString" value="GRADLE" />
               <option name="taskNames">
                 <list>
-                  <option value="build" />
+                  <option value="integrationJar" />
                 </list>
               </option>
             </ExternalSystemSettings>
@@ -452,7 +190,7 @@
               <option name="externalSystemIdString" value="GRADLE" />
               <option name="taskNames">
                 <list>
-                  <option value="install" />
+                  <option value="deobfuscateJar" />
                 </list>
               </option>
             </ExternalSystemSettings>
@@ -466,7 +204,7 @@
               <option name="externalSystemIdString" value="GRADLE" />
               <option name="taskNames">
                 <list>
-                  <option value="extractUserDev" />
+                  <option value="deobfBinJar" />
                 </list>
               </option>
             </ExternalSystemSettings>
@@ -480,35 +218,7 @@
               <option name="externalSystemIdString" value="GRADLE" />
               <option name="taskNames">
                 <list>
-                  <option value="extractNatives" />
-                </list>
-              </option>
-            </ExternalSystemSettings>
-          </option>
-        </ExternalTaskExecutionInfo>
-        <ExternalTaskExecutionInfo>
-          <option name="executorId" value="Run" />
-          <option name="settings">
-            <ExternalSystemSettings>
-              <option name="externalProjectPath" value="$PROJECT_DIR$" />
-              <option name="externalSystemIdString" value="GRADLE" />
-              <option name="taskNames">
-                <list>
-                  <option value="genIntellijRuns" />
-                </list>
-              </option>
-            </ExternalSystemSettings>
-          </option>
-        </ExternalTaskExecutionInfo>
-        <ExternalTaskExecutionInfo>
-          <option name="executorId" value="Run" />
-          <option name="settings">
-            <ExternalSystemSettings>
-              <option name="externalProjectPath" value="$PROJECT_DIR$" />
-              <option name="externalSystemIdString" value="GRADLE" />
-              <option name="taskNames">
-                <list>
-                  <option value="install-dependencies" />
+                  <option value="baseJar" />
                 </list>
               </option>
             </ExternalSystemSettings>
@@ -1082,6 +792,10 @@
         <option value="$PROJECT_DIR$/build.xml" />
         <option value="$PROJECT_DIR$/src/mrtjp/projectred/compatibility/tconstruct/PluginTConstruct.scala" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/mrtjp/projectred/core/utils/DirectionalRayTracer.java" />
+        <option value="$PROJECT_DIR$/src/mrtjp/projectred/transportation/piperenders.scala" />
+        <option value="$PROJECT_DIR$/resources/dependancies.info" />
+        <option value="$PROJECT_DIR$/resources/mcmod.info" />
       </list>
     </option>
   </component>
@@ -1091,10 +805,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1456" />
-    <option name="height" value="886" />
+    <option name="width" value="1440" />
+    <option name="height" value="870" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -1175,14 +887,254 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DependencyRepo" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectred" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="transportation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldrouters.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectred" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="transportation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectred" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="transportation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routingthreads.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectred" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="transportation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="piperenders.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectred" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="transportation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PipeDef.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectred" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="transportation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pathfinders.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectred" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="transportation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="packethandlers.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectred" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="transportation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="items.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectred" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectRed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eclipse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1200,9 +1152,14 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="preferences.updates" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Gradle.ProjectRed [jar]">
-    <configuration default="false" name="ProjectRed [install]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Application.Minecraft Client">
+    <configuration default="false" name="ProjectRed [deobfuscateJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
@@ -1212,7 +1169,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="install" />
+            <option value="deobfuscateJar" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -1221,7 +1178,7 @@
       <ConfigurationWrapper RunnerId="ExternalSystemTaskRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="ProjectRed [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration default="false" name="ProjectRed [integrationJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
@@ -1231,45 +1188,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <RunnerSettings RunnerId="ExternalSystemTaskRunner" />
-      <ConfigurationWrapper RunnerId="ExternalSystemTaskRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ProjectRed [extractNatives]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="extractNatives" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <RunnerSettings RunnerId="ExternalSystemTaskRunner" />
-      <ConfigurationWrapper RunnerId="ExternalSystemTaskRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ProjectRed [extractUserDev]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="extractUserDev" />
+            <option value="integrationJar" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -1289,6 +1208,44 @@
         <option name="taskNames">
           <list>
             <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <RunnerSettings RunnerId="ExternalSystemTaskRunner" />
+      <ConfigurationWrapper RunnerId="ExternalSystemTaskRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ProjectRed [updateVersion]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="updateVersion" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <RunnerSettings RunnerId="ExternalSystemTaskRunner" />
+      <ConfigurationWrapper RunnerId="ExternalSystemTaskRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ProjectRed [worldJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="worldJar" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -1560,7 +1517,9 @@
       </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method />
+      <method>
+        <option name="Make" enabled="false" />
+      </method>
     </configuration>
     <configuration default="false" name="Minecraft Server" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -1582,19 +1541,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.Minecraft Client" />
       <item index="1" class="java.lang.String" itemvalue="Application.Minecraft Server" />
-      <item index="2" class="java.lang.String" itemvalue="Gradle.ProjectRed [install]" />
-      <item index="3" class="java.lang.String" itemvalue="Gradle.ProjectRed [build]" />
-      <item index="4" class="java.lang.String" itemvalue="Gradle.ProjectRed [extractNatives]" />
-      <item index="5" class="java.lang.String" itemvalue="Gradle.ProjectRed [extractUserDev]" />
-      <item index="6" class="java.lang.String" itemvalue="Gradle.ProjectRed [jar]" />
+      <item index="2" class="java.lang.String" itemvalue="Gradle.ProjectRed [deobfuscateJar]" />
+      <item index="3" class="java.lang.String" itemvalue="Gradle.ProjectRed [integrationJar]" />
+      <item index="4" class="java.lang.String" itemvalue="Gradle.ProjectRed [jar]" />
+      <item index="5" class="java.lang.String" itemvalue="Gradle.ProjectRed [updateVersion]" />
+      <item index="6" class="java.lang.String" itemvalue="Gradle.ProjectRed [worldJar]" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Gradle.ProjectRed [jar]" />
-        <item index="1" class="java.lang.String" itemvalue="Gradle.ProjectRed [build]" />
-        <item index="2" class="java.lang.String" itemvalue="Gradle.ProjectRed [install]" />
-        <item index="3" class="java.lang.String" itemvalue="Gradle.ProjectRed [extractUserDev]" />
-        <item index="4" class="java.lang.String" itemvalue="Gradle.ProjectRed [extractNatives]" />
+        <item index="0" class="java.lang.String" itemvalue="Gradle.ProjectRed [worldJar]" />
+        <item index="1" class="java.lang.String" itemvalue="Gradle.ProjectRed [updateVersion]" />
+        <item index="2" class="java.lang.String" itemvalue="Gradle.ProjectRed [jar]" />
+        <item index="3" class="java.lang.String" itemvalue="Gradle.ProjectRed [integrationJar]" />
+        <item index="4" class="java.lang.String" itemvalue="Gradle.ProjectRed [deobfuscateJar]" />
       </list>
     </recent_temporary>
     <configuration default="true" name="&lt;template&gt;" selected="false" type="WebApp">
@@ -1611,44 +1570,70 @@
       <changelist id="b4e5ccba-48b0-4471-8e6f-f5f114bbc103" name="Default" comment="" />
       <created>1408408641670</created>
       <updated>1408408641670</updated>
-      <workItem from="1408408642349" duration="7237000" />
+      <workItem from="1408408642349" duration="13747000" />
+      <workItem from="1408635132027" duration="1869000" />
+      <workItem from="1408657085987" duration="1188000" />
+      <workItem from="1408838718767" duration="3024000" />
+      <workItem from="1408870055909" duration="16000" />
+      <workItem from="1409292154223" duration="2049000" />
+      <workItem from="1409448110446" duration="1313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7237000" />
+    <option name="totallyTimeSpent" value="23206000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="870" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329235" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964131" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328877" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2661406" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.76775956" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26560232" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329235" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964131" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7687166" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963716" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.76775956" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32786885" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1673,32 +1658,113 @@
       <option name="time" value="1" />
     </breakpoint-manager>
   </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="ProjectRed" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="ProjectRed" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/pathfinders.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1632" max-vertical-offset="4641">
+          <caret line="96" column="45" selection-start-line="96" selection-start-column="45" selection-end-line="96" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/BasicPipePart.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="204">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/ChipBroadcaster.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2584" max-vertical-offset="3060">
+          <caret line="152" column="54" selection-start-line="152" selection-start-column="54" selection-end-line="152" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/ItemRouterUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="3485">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/items.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4386" max-vertical-offset="4488">
+          <caret line="258" column="1" selection-start-line="258" selection-start-column="1" selection-end-line="258" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/piperenders.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="867" max-vertical-offset="6137">
+          <caret line="88" column="91" selection-start-line="88" selection-start-column="91" selection-end-line="88" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/worldrouters.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1173" max-vertical-offset="1683">
+          <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/RouteFX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="6341">
+          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/routingthreads.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="1581">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/PipeDef.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="935">
+          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/pathfinders.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1632" max-vertical-offset="4641">
+          <caret line="96" column="45" selection-start-line="96" selection-start-column="45" selection-end-line="96" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ProjectRed.iws">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="5763" max-vertical-offset="31331">
           <caret line="369" column="14" selection-start-line="369" selection-start-column="14" selection-end-line="369" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="5134">
-          <caret line="34" column="77" selection-start-line="31" selection-start-column="39" selection-end-line="34" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1706,17 +1772,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1513">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#51#99#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4981">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1724,7 +1779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
           <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1732,7 +1786,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
           <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1740,17 +1793,281 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
           <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/ProjectRedCompatibility.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41944847" vertical-offset="0" max-vertical-offset="689">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="e#26#56#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/core/AStar.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="501" max-vertical-offset="1190">
+          <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/core/BasicGuiUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2452" max-vertical-offset="3128">
+          <caret line="183" column="35" selection-start-line="183" selection-start-column="35" selection-end-line="183" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/core/connectabletiles.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2635">
+          <caret line="126" column="67" selection-start-line="126" selection-start-column="67" selection-end-line="126" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/core/utils/OpenGLLib.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="748">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/core/utils/MathLib.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
+          <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/core/utils/LonelyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1946" max-vertical-offset="2635">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/core/utils/DirectionalRayTracer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1266" max-vertical-offset="2465">
+          <caret line="103" column="79" selection-start-line="103" selection-start-column="79" selection-end-line="103" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/APIImpl_Transportation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/items.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3421" max-vertical-offset="4165">
+          <caret line="258" column="1" selection-start-line="258" selection-start-column="1" selection-end-line="258" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/RouteFX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5967">
+          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/pathfinders.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4454">
+          <caret line="96" column="45" selection-start-line="96" selection-start-column="45" selection-end-line="96" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/ItemRouterUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2924">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/BasicPipePart.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/ChipBroadcaster.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2248" max-vertical-offset="2992">
+          <caret line="152" column="54" selection-start-line="152" selection-start-column="54" selection-end-line="152" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/routingthreads.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="1581">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/PipeDef.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="816">
+          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/piperenders.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5719" max-vertical-offset="6392">
+          <caret line="329" column="0" selection-start-line="329" selection-start-column="0" selection-end-line="329" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="212" max-vertical-offset="816">
+          <caret line="42" column="15" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/Changelog">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="2210">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4981">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/routermanagment.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="8313">
+          <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/api/ProjectRedAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/api/ITransportationAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/api/ITransmissionAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/api/IConnectable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22486773" vertical-offset="0" max-vertical-offset="714">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/api/ISpecialLinkState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3125" vertical-offset="35" max-vertical-offset="697">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mrtjp/projectred/transportation/worldrouters.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.076233186" vertical-offset="0" max-vertical-offset="1683">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1428">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1632">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2890">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="5134">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/dependancies.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/mcmod.info">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55904335" vertical-offset="0" max-vertical-offset="2788">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

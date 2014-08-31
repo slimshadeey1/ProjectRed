@@ -21,7 +21,7 @@ object RenderPipe
 {
     private final val dummyEntityItem = new EntityItem(null)
     private final val customRenderItem = new RenderItem
-    {
+    {// Storing of blob data, could be made much faster... TODO Improve saving effciency
         override def shouldBob = false
         override def shouldSpreadItems = false
     }
@@ -69,7 +69,7 @@ object RenderPipe
         if (p.material) renderRSWiring(p, t, p.signal)
     }
 
-    private def renderRSWiring(p:FlowingPipePart, t:Translation, signal:Int)
+    private def renderRSWiring(p:FlowingPipePart, t:Translation, signal:Int) //Private Object, no return/void
     {
         val colour = new ColourMultiplier((signal&0xFF)/2+60<<24|0xFF)
         val uvt2 = new IconTransformation(PipeDef.BASIC.sprites(1))
@@ -81,12 +81,12 @@ object RenderPipe
         }
         else centerModelsRS(3).render(t, uvt2, colour)
 
-        for (s <- 0 until 6) if ((connMap&1<<s) != 0) sideModelsRS(s).render(t, uvt2, colour)
+        for (s <- 0 until 6) if ((connMap&1<<s) != 0) sideModelsRS(s).render(t, uvt2, colour)//Inline foreach statement
     }
 
     def renderBreakingOverlay(icon:Icon, pipe:FlowingPipePart)
     {
-        import scala.collection.JavaConversions._
+        import scala.collection.JavaConversions._ //Wildcard for all of the classes inside.
         for (box <- pipe.getCollisionBoxes)
             RenderUtils.renderBlock(box, 0, new Translation(pipe.x, pipe.y, pipe.z), new IconTransformation(icon), null)
     }
